@@ -4,6 +4,7 @@
     "bin": {
         "jscodefmt": "./bin.jscodefmt"
     },
+    "main": "./index.js",
     "dependencies": {
         "babylon": "^6.18.0",
         "minimist": "^1.2.8",
